@@ -16,7 +16,7 @@ const user = {
 };
 ```
 
-I am a highly motivated and results-oriented junior back-end web developer with a passion for creating intuitive and user-friendly web interfaces. I have proficiency in `JavaScript`, `Node.js`, `Express.js`, `TypeScript`, and have a basic understanding of `Linux`. I believe that bugs are opportunities to learn and grow. I am capable of understanding challenges and solving problems in this field. With my skills and experience, learning new technologies will not be difficult for me. I also have a strong team spirit and am able to work effectively and reliably in group projects.
+I'm a highly motivated and results-oriented junior back-end web developer with a passion for creating intuitive and user-friendly web interfaces. I have proficiency in `JavaScript`, `Node.js`, ``Express.js``, ``TypeScript``, and have a basic understanding of ``Linux``. I believe that bugs are opportunities to learn and grow. I'm capable of understanding challenges and solving problems in this field. With my skills and experience, learning new technologies will not be difficult for me. I also have a strong team spirit so I will be able to work effectively and reliably in group projects.
 
 ## 🛠 Skills
 
