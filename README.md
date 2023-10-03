@@ -32,6 +32,9 @@ const user = {
 <p align="center">
   
     <img height = "200" width = "200" src="https://user-images.githubusercontent.com/136922683/272280913-f543f55e-fcdd-4f0f-938c-e04e4ca513e4.png" alt="mybaner"/>
+    <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/mai‏‏
   
 </p>
 
