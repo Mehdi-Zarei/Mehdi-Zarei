@@ -31,7 +31,7 @@ const user = {
 ### Socials
 <p align="center">
   
-    <img src="https://user-images.githubusercontent.com/136922683/272280913-f543f55e-fcdd-4f0f-938c-e04e4ca513e4.png" alt="mybaner"/>
+    <img height = "200" width = "200" src="https://user-images.githubusercontent.com/136922683/272280913-f543f55e-fcdd-4f0f-938c-e04e4ca513e4.png" alt="mybaner"/>
   
 </p>
 
