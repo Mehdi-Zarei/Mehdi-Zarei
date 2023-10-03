@@ -30,8 +30,8 @@ const user = {
 -------------------
 ### Socials
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github.com/Mehdi-Zarei/Mehdi-Zarei/assets/136922683/f543f55e-fcdd-4f0f-938c-e04e4ca513e4)https://github.com/Mehdi-Zarei/Mehdi-Zarei/assets/136922683/f543f55e-fcdd-4f0f-938c-e04e4ca513e4" alt="mybaner"/>
+  <a href=""
+    <img src="https://github.com/Mehdi-Zarei/Mehdi-Zarei/assets/136922683/f543f55e-fcdd-4f0f-938c-e04e4ca513e4" alt="mybaner"/>
   </a>
 </p>
 
