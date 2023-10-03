@@ -23,7 +23,7 @@ const user = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,linux,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,linux,mongodb,mysql,postman" />
   </a>
 </p>
 
