@@ -28,17 +28,13 @@ const user = {
 </p>
 
 -------------------
-### Socials
-<p align="center">
-  
-    <img height = "200" width = "200" src="https://user-images.githubusercontent.com/136922683/272280913-f543f55e-fcdd-4f0f-938c-e04e4ca513e4.png" alt="mybaner"/>
-    <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/mai‏‏
-  
-</p>
+### Connect to me!
 
-</p>
+<p align="left"><a href="https://www.instagram.com/mehdi.zarei1995/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307184-5c782602-4251-400f-b0aa-f0ebb08c2be9.png" width="32" height="32" /></a> <a href="https://t.me/Mehdiizarei" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272304750-77048ac7-598a-4f6f-a549-0a3ef7b874d2.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/MehdiZareii" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="mahdizareiofficial@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32" /></a>
+<p/>
+‏‏
+  
+
 
 
 
