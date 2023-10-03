@@ -29,7 +29,11 @@ const user = {
 
 -------------------
 ### Socials
-[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,linux,mongodb,mysql" alt="mybaner"/>
+  </a>
+</p>
 
 </p>
 
