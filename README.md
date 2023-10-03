@@ -31,7 +31,7 @@ const user = {
 ### Socials
 <p align="center">
   <a href=""
-    <img src="https://github.com/Mehdi-Zarei/Mehdi-Zarei/assets/136922683/f543f55e-fcdd-4f0f-938c-e04e4ca513e4" alt="mybaner"/>
+    <img src="https://user-images.githubusercontent.com/136922683/272280913-f543f55e-fcdd-4f0f-938c-e04e4ca513e4.png" alt="mybaner"/>
   </a>
 </p>
 
