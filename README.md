@@ -6,7 +6,7 @@ Junior Back-End Web Developer
 
 ```javascript
 const user = {
-  status : 200,
+  status : 201,
   data : {
     name : "Mehdi Zarei",
     birthDay : "July 26, 1995",
