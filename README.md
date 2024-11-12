@@ -11,7 +11,7 @@ const user = {
     name : "Mehdi Zarei",
     birthDay : "July 26, 1995",
     Location : "Iran-Tehran",
-    skills : "JS,Node,Express,TS,git,github,MongoDB,MySQL",
+    skills : "JS,TS,NodeJS,ExpressJS,NestJS,Fastify,git,github,MongoDB,MySQL",
   }
 };
 ```
@@ -24,7 +24,7 @@ const user = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,linux,mongodb,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,nestjs,mongodb,mysql,postman" />
   </a>
 </p>
 
