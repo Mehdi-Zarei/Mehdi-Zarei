@@ -16,8 +16,9 @@ const user = {
 };
 ```
 -------------------
+>I am a highly motivated and energetic junior back-end developer, passionate about creating high-performance back-end systems that effectively manage data and ensure smooth server-side processing. I am proficient in the `Node.js` runtime, as well as frameworks such as `Express.js`, `Nest.JS`, and `Fastify`, and databases like `MongoDB` and `MySQL`. I believe that bugs are opportunities for learning and growth in the endless world of technology. I have the ability to understand challenges and solve problems in this field, and with my skills and experience, learning new technologies will not be difficult for me. I also have a strong team spirit, so I am able to work effectively and reliably in group projects.
 
->I'm a highly motivated and results-oriented junior back-end web developer with a passion for creating intuitive and user-friendly web interfaces. I have proficiency in `JavaScript`, `Node.js`, ``Express.js``, ``TypeScript``,``MongoDB``,``MySQL`` and have a basic understanding of ``Linux``. I believe that bugs are opportunities to learn and grow. I'm capable of understanding challenges and solving problems in this field. With my skills and experience, learning new technologies will not be difficult for me. I also have a strong team spirit so I will be able to work effectively and reliably in group projects.
+
 --------------------------
 ## 🛠 Skills
 
