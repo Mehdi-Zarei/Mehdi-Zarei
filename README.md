@@ -11,7 +11,7 @@ const user = {
     name : "Mehdi Zarei",
     birthDay : "July 26, 1995",
     Location : "Iran-Tehran",
-    skills : "JS,Node,Express,TS,Linux,git,github,MongoDB,MySQL",
+    skills : "JS,Node,Express,TS,git,github,MongoDB,MySQL",
   }
 };
 ```
