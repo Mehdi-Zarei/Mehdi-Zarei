@@ -16,7 +16,9 @@ const user = {
 };
 ```
 -------------------
->I am a highly motivated and energetic junior back-end developer, passionate about creating high-performance back-end systems that effectively manage data and ensure smooth server-side processing. I am proficient in the `Node.js` runtime, as well as frameworks such as `Express.js`, `Nest.JS`, and `Fastify`, and databases like `MongoDB` and `MySQL`. I believe that bugs are opportunities for learning and growth in the endless world of technology. I have the ability to understand challenges and solve problems in this field, and with my skills and experience, learning new technologies will not be difficult for me. I also have a strong team spirit, so I am able to work effectively and reliably in group projects.
+>I'm a driven and enthusiastic junior back-end developer with a knack for building efficient, high-performance systems that handle data seamlessly and keep server-side processes running smoothly. My expertise lies in `Node.js`, along with frameworks like `Express.js`, `Nest.JS`, and `Fastify`, as well as databases such as `MongoDB` and `MySQL`. I see bugs not as setbacks but as opportunities to learn and grow in the ever-evolving tech landscape.
+
+Problem-solving is a strength of mine, and I thrive on tackling challenges head-on. I’m confident that my skills and experience make it easy for me to adapt to new technologies as they emerge. On top of that, I value teamwork and collaboration, which helps me contribute effectively and reliably to group projects
 
 
 --------------------------
