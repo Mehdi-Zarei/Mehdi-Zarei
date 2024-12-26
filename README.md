@@ -25,7 +25,7 @@ Problem-solving is a strength of mine, and I thrive on tackling challenges head-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,nestjs,mongodb,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts,git,github,nestjs,mongodb,mysql,postgresql,sequelize,docker,graphql,postman" />
   </a>
 </p>
 
