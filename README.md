@@ -16,7 +16,7 @@ const user = {
 };
 ```
 -------------------
->I'm a driven and eager junior Back-End developer with a skill for building effective, high-performance frameworks that handle information consistently and keep server-side forms running easily. My ability lies in `Node.js`, at the side systems like `Express.js`, `Nest.JS`, and `Fastify`, as well as databases such as `MongoDB` and `MySQL`. I see bugs not as misfortunes but as openings to memorize and develop within the ever-evolving tech scene. Problem-solving may be a quality of mine, and I flourish on handling challenges head-on. I'm certain that my aptitudes and involvement make it simple for me to adjust to unused innovations as they develop. On beat of that, I esteem collaboration and collaboration, which makes a difference me contribute viably and dependably to gather ventures.
+>I'm a driven and eager Back-End developer with a skill for building effective, high-performance frameworks that handle information consistently and keep server-side forms running easily. My ability lies in `Node.js`, at the side systems like `Express.js`, `Nest.JS`, and `Fastify`, as well as databases such as `MongoDB` and `MySQL`. I see bugs not as misfortunes but as openings to memorize and develop within the ever-evolving tech scene. Problem-solving may be a quality of mine, and I flourish on handling challenges head-on. I'm certain that my aptitudes and involvement make it simple for me to adjust to unused innovations as they develop. On beat of that, I esteem collaboration and collaboration, which makes a difference me contribute viably and dependably to gather ventures.
 
 
 --------------------------
