@@ -6,12 +6,12 @@ Mid-Level Back-End Developer(Node.js)
 
 ```javascript
 const user = {
-  status : 201,
+  status : 200,
   data : {
     name : "Mehdi Zarei",
     birthDay : "July 26, 1995",
     Location : "Iran-Tehran",
-    skills : "JS,TS,NodeJS,ExpressJS,NestJS,Fastify,git,github,MongoDB,MySQL",
+    skills : "JS,TS,NodeJS,ExpressJS,NestJS,git,github,MongoDB,MySQL,PostgreSQL",
   }
 };
 ```
